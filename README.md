@@ -30,8 +30,8 @@ Danny aims to understand customer behavior, enhance the loyalty program, and gen
 10. Points for customers A and B at the end of January.
 
 ## Bonus Questions
-# Join All The Things
+### Join All The Things
 
 
-##The answers to the case study questions are available in the file named danny_diner.sql(https://github.com/1MROBI/Danny-s-Diner/blob/main/danny_diner.sql). You can use this file as a reference to understand the solutions provided for each question.
+##The answers to the case study questions are available in the file named [answers.sql](https://github.com/1MROBI/Danny-s-Diner/blob/main/danny_diner.sql). You can use this file as a reference to understand the solutions provided for each question.
 
