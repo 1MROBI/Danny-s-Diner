@@ -33,6 +33,5 @@ Danny aims to understand customer behavior, enhance the loyalty program, and gen
 # Join All The Things
 
 
-Answer File: The answers to the case study questions are available in the file named danny_diner.sql. You can use this file as a reference to understand the solutions provided for each question.
+##The answers to the case study questions are available in the file named danny_diner.sql(https://github.com/1MROBI/Danny-s-Diner/blob/main/danny_diner.sql). You can use this file as a reference to understand the solutions provided for each question.
 
-Feel free to adapt this markdown, and replace [path/to/https://github.com/1MROBI/Danny-s-Diner/blob/main/danny_diner.sql] with the actual path to your answer file.
